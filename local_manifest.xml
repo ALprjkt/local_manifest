@@ -5,7 +5,7 @@
         <remote name="AL" fetch="https://github.com/ALprjkt" />
 		
         <!-- Trees -->
-        <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="AL" revision="df" />
+        <project path="device/xiaomi/ysl" name="device_xiaomi_ysl" remote="AL" revision="lmodroid" />
         <project path="vendor/xiaomi/ysl" name="vendor_xiaomi_ysl" remote="AL" revision="13" />
         <project path="kernel/xiaomi/msm8953" name="kernel_xiaomi_ysl" remote="AL" revision="ten" />
 	<project path="device/xiaomi/msm8953-common" name="device_xiaomi_msm8953-common" remote="AL" revision="13" />
